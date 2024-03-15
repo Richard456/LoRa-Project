@@ -1,0 +1,7 @@
+*~
+.*.swp
+*.bak
+
+*.egg-info/
+
+__pycache__
